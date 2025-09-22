@@ -1,4 +1,4 @@
-# ORION CROSS-CHECK AI  
+# ORION CROSS-CHECK AI (work in progress)
 Multi-Model LLM Benchmarking System
 
 This project aims to test and compare different Large Language Models (LLMs) on space physics questions in order to evaluate their accuracy, consistency, and performance.  
